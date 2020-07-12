@@ -48,19 +48,19 @@
         "iconData": [
             {
                 "id": 1,
-                "iconClass": "fas fa-star text-warning"
+                "iconClass": "fas fa-star text-warning mr-1"
             },
             {
                 "id": 2,
-                "iconClass": "fas fa-star text-warning"
+                "iconClass": "fas fa-star text-warning mr-1"
             },
             {
                 "id": 3,
-                "iconClass": "fas fa-star text-warning"
+                "iconClass": "fas fa-star text-warning mr-1"
             },
             {
                 "id": 4,
-                "iconClass": "fas fa-star text-warning"
+                "iconClass": "fas fa-star text-warning mr-1"
             },
             {
                 "id": 5,
