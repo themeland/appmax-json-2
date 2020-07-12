@@ -75,26 +75,41 @@
         "faqData": [
             {
                 "id": 1,
+                "target": "#collapseOne",
+                "targetId": "collapseOne",
+                "linkClass": "collapse show",
                 "title": "What are the benifits of App landing page?",
                 "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt eius quia voluptatem maiores, quod ipsa odit! Mollitia fugit voluptatum cumque esse, omnis earum, dolore maxime ex dolores voluptate. Ipsam, fugit in delectus maxime vitae aut hic dolor eius quasi minima."
             },
             {
                 "id": 2,
+                "target": "#collapseTwo",
+                "targetId": "collapseTwo",
+                "linkClass": "collapse",
                 "title": "What about the features?",
                 "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt eius quia voluptatem maiores, quod ipsa odit! Mollitia fugit voluptatum cumque esse, omnis earum, dolore maxime ex dolores voluptate. Ipsam, fugit in delectus maxime vitae aut hic dolor eius quasi minima."
             },
             {
                 "id": 3,
+                "target": "#collapseThree",
+                "targetId": "collapseThree",
+                "linkClass": "collapse",
                 "title": "How to download the extended licence?",
                 "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt eius quia voluptatem maiores, quod ipsa odit! Mollitia fugit voluptatum cumque esse, omnis earum, dolore maxime ex dolores voluptate. Ipsam, fugit in delectus maxime vitae aut hic dolor eius quasi minima."
             },
             {
                 "id": 4,
+                "target": "#collapseFour",
+                "targetId": "collapseFour",
+                "linkClass": "collapse",
                 "title": "Can I have to pay again for this product?",
                 "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt eius quia voluptatem maiores, quod ipsa odit! Mollitia fugit voluptatum cumque esse, omnis earum, dolore maxime ex dolores voluptate. Ipsam, fugit in delectus maxime vitae aut hic dolor eius quasi minima."
             },
             {
                 "id": 5,
+                "target": "#collapseFive",
+                "targetId": "collapseFive",
+                "linkClass": "collapse",
                 "title": "Will the support included in product?",
                 "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt eius quia voluptatem maiores, quod ipsa odit! Mollitia fugit voluptatum cumque esse, omnis earum, dolore maxime ex dolores voluptate. Ipsam, fugit in delectus maxime vitae aut hic dolor eius quasi minima."
             }
