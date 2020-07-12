@@ -1,0 +1,251 @@
+{
+    "themeOneReviewSection": {
+        "preHeading": "Why choose us?",
+        "heading": "10k+ customers trust us",
+        "headingTwo": "What our customers are saying",
+        "headingText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
+        "headingTextTwo": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
+        "btnText": "See all Reviews",
+        "reviewData": [
+            {
+                "id": 1,
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi facilis dolor sit cum molorum deserunt doloribus.",
+                "image": "/img/avatar_1.jpg",
+                "reviewer": "Junaid Hasan",
+                "reviewerPost": "CEO, PlexDesign"
+            },
+            {
+                "id": 2,
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi facilis dolor sit cum molorum deserunt doloribus.",
+                "image": "/img/avatar_2.jpg",
+                "reviewer": "Yasmin Akter",
+                "reviewerPost": "Designer, PlexDesign"
+            },
+        ],
+        "reviewDataTwo": [
+            {
+                "id": 1,
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi facilis dolor sit cum molorum deserunt doloribus.",
+                "image": "/img/avatar_1.jpg",
+                "reviewer": "Junaid Hasan",
+                "reviewerPost": "CEO, PlexDesign"
+            },
+            {
+                "id": 2,
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi facilis dolor sit cum molorum deserunt doloribus.",
+                "image": "/img/avatar_2.jpg",
+                "reviewer": "Yasmin Akter",
+                "reviewerPost": "Designer, PlexDesign"
+            },
+            {
+                "id": 3,
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi facilis dolor sit cum molorum deserunt doloribus.",
+                "image": "/img/avatar_3.jpg",
+                "reviewer": "Md. Arham",
+                "reviewerPost": "SEO Expert, PlexDesign"
+            },
+        ],
+        "iconData": [
+            {
+                "id": 1,
+                "iconClass": "fas fa-star text-warning"
+            },
+            {
+                "id": 2,
+                "iconClass": "fas fa-star text-warning"
+            },
+            {
+                "id": 3,
+                "iconClass": "fas fa-star text-warning"
+            },
+            {
+                "id": 4,
+                "iconClass": "fas fa-star text-warning"
+            },
+            {
+                "id": 5,
+                "iconClass": "fas fa-star text-warning"
+            }
+        ]
+    },
+    "themeOneFaqSection": {
+        "heading": "Have questions? Look here",
+        "headingText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
+        "headingTextTwo": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
+        "faqData": [
+            {
+                "id": 1,
+                "title": "What are the benifits of App landing page?",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt eius quia voluptatem maiores, quod ipsa odit! Mollitia fugit voluptatum cumque esse, omnis earum, dolore maxime ex dolores voluptate. Ipsam, fugit in delectus maxime vitae aut hic dolor eius quasi minima."
+            },
+            {
+                "id": 2,
+                "title": "What about the features?",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt eius quia voluptatem maiores, quod ipsa odit! Mollitia fugit voluptatum cumque esse, omnis earum, dolore maxime ex dolores voluptate. Ipsam, fugit in delectus maxime vitae aut hic dolor eius quasi minima."
+            },
+            {
+                "id": 3,
+                "title": "How to download the extended licence?",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt eius quia voluptatem maiores, quod ipsa odit! Mollitia fugit voluptatum cumque esse, omnis earum, dolore maxime ex dolores voluptate. Ipsam, fugit in delectus maxime vitae aut hic dolor eius quasi minima."
+            },
+            {
+                "id": 4,
+                "title": "Can I have to pay again for this product?",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt eius quia voluptatem maiores, quod ipsa odit! Mollitia fugit voluptatum cumque esse, omnis earum, dolore maxime ex dolores voluptate. Ipsam, fugit in delectus maxime vitae aut hic dolor eius quasi minima."
+            },
+            {
+                "id": 5,
+                "title": "Will the support included in product?",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt eius quia voluptatem maiores, quod ipsa odit! Mollitia fugit voluptatum cumque esse, omnis earum, dolore maxime ex dolores voluptate. Ipsam, fugit in delectus maxime vitae aut hic dolor eius quasi minima."
+            }
+        ]
+    },
+    "themeOneTeamSection": {
+        "heading": "Our Team Experts",
+        "headingText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
+        "headingTexttwo": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
+        "teamData": [
+            {
+                "id": 1,
+                "image": "/img/avatar-1.png",
+                "title": "Junaid Hasan",
+                "teamPost": "Founder & CEO"
+            },
+            {
+                "id": 2,
+                "image": "/img/avatar-2.png",
+                "title": "Yasmin Akter",
+                "teamPost": "Co-Founder"
+            },
+            {
+                "id": 3,
+                "image": "/img/avatar-3.png",
+                "title": "Md. Arham",
+                "teamPost": "Web Developer"
+            },
+            {
+                "id": 4,
+                "image": "/img/avatar-4.png",
+                "title": "Jassica William",
+                "teamPost": "Graphic Designer"
+            }
+        ],
+        "iconData": [
+            {
+                "id": 1,
+                "iconClass": "fab fa-facebook-f"
+            },
+            {
+                "id": 2,
+                "iconClass": "fab fa-twitter"
+            },
+            {
+                "id": 3,
+                "iconClass": "fab fa-google-plus-g"
+            },
+            {
+                "id": 4,
+                "iconClass": "fab fa-instagram"
+            },
+            {
+                "id": 5,
+                "iconClass": "fab fa-linkedin-in"
+            }
+        ]
+    },
+    "themeOneFooterSection": {
+        "image": "/img/logo_white.png",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis non, fugit totam vel laboriosam vitae.",
+        "linkText_1": "Company",
+        "linkText_2": "Resources",
+        "linkText_3": "Support",
+        "iconData": [
+            {
+                "id": 1,
+                "link": "facebook",
+                "iconClass": "fab fa-facebook-f"
+            },
+            {
+                "id": 2,
+                "link": "twitter",
+                "iconClass": "fab fa-twitter"
+            },
+            {
+                "id": 3,
+                "link": "google-plus",
+                "iconClass": "fab fa-google-plus-g"
+            },
+            {
+                "id": 4,
+                "link": "vine",
+                "iconClass": "fab fa-vine"
+            }
+        ],
+        "footerList_1": [
+            {
+                "id": 1,
+                "text": "Careers"
+            },
+            {
+                "id": 2,
+                "text": "About Us"
+            },
+            {
+                "id": 3,
+                "text": "Services"
+            },
+            {
+                "id": 4,
+                "text": "Blog"
+            },
+            {
+                "id": 5,
+                "text": "Contact"
+            }
+        ],
+        "footerList_2": [
+            {
+                "id": 1,
+                "text": "Help"
+            },
+            {
+                "id": 2,
+                "text": "FAQ"
+            },
+            {
+                "id": 3,
+                "text": "Privacy Policy"
+            },
+            {
+                "id": 4,
+                "text": "Support"
+            },
+            {
+                "id": 5,
+                "text": "Terms & Conditions"
+            }
+        ],
+        "footerList_3": [
+            {
+                "id": 1,
+                "text": "Products"
+            },
+            {
+                "id": 2,
+                "text": "FAQ"
+            },
+            {
+                "id": 3,
+                "text": "Privacy Policy"
+            },
+            {
+                "id": 4,
+                "text": "About Us"
+            },
+            {
+                "id": 5,
+                "text": "Download"
+            }
+        ]
+    }
+}
