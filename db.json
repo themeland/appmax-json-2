@@ -118,29 +118,29 @@
     "themeOneTeamSection": {
         "heading": "Our Team Experts",
         "headingText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
-        "headingTexttwo": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
+        "headingTextTwo": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
         "teamData": [
             {
                 "id": 1,
-                "image": "/img/avatar-1.png",
+                "image": "/img/avatar_1.png",
                 "title": "Junaid Hasan",
                 "teamPost": "Founder & CEO"
             },
             {
                 "id": 2,
-                "image": "/img/avatar-2.png",
+                "image": "/img/avatar_2.png",
                 "title": "Yasmin Akter",
                 "teamPost": "Co-Founder"
             },
             {
                 "id": 3,
-                "image": "/img/avatar-3.png",
+                "image": "/img/avatar_3.png",
                 "title": "Md. Arham",
                 "teamPost": "Web Developer"
             },
             {
                 "id": 4,
-                "image": "/img/avatar-4.png",
+                "image": "/img/avatar_4.png",
                 "title": "Jassica William",
                 "teamPost": "Graphic Designer"
             }
