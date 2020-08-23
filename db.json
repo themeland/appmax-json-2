@@ -170,7 +170,6 @@
     },
     "themeOneFooterSection": {
         "image": "/img/logo_white.png",
-        "imageTwo": "/img/logo.png",
         "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis non, fugit totam vel laboriosam vitae.",
         "linkText_1": "Company",
         "linkText_2": "Resources",
@@ -261,24 +260,6 @@
             {
                 "id": 5,
                 "text": "Download"
-            }
-        ],
-        "footerList_4": [
-            {
-                "id": 1,
-                "text": "Affiliate program"
-            },
-            {
-                "id": 2,
-                "text": "Terms & Conditions"
-            },
-            {
-                "id": 3,
-                "text": "Privacy Policy"
-            },
-            {
-                "id": 4,
-                "text": "Refund Policy"
             }
         ]
     }
